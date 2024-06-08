@@ -1,0 +1,10 @@
+a {
+    color: white;
+    text-decoration: none;
+}
+
+#navbar {
+    background: blue;
+    transition: 200ms;
+    height: 100%;
+}
